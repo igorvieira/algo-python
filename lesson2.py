@@ -1,3 +1,10 @@
+"""
+Created on Sat Dec 13 2021
+
+@author: Vieira
+Multiplicação de dois números
+"""
+
 num1 = input("Digite um primeiro número: ")
 num2 = input("Digite um segundo número: ")
 
